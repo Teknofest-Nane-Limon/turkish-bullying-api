@@ -100,7 +100,7 @@ soupsieve==2.3.2.post1
 SQLAlchemy==1.4.39
 SQLAlchemy-Utils==0.38.3
 stack-data==0.3.0
-starlette==0.20.4
+starlette==0.19.1
 tensorboard==1.8.0
 tensorflow @ https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.8.0-py3-none-any.whl
 termcolor==1.1.0
@@ -120,4 +120,3 @@ webencodings==0.5.1
 Werkzeug==2.2.1
 yarg==0.1.9
 zope.interface==5.4.0
-spacy-transformers -f https://download.pytorch.org/whl/torch_stable.html
