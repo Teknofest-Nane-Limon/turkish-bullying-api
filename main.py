@@ -12,6 +12,11 @@ model = TFBertForSequenceClassification.from_pretrained(model_path, from_pt=True
 app = FastAPI()
 
 
+@app.get("/")
+async def hello():
+    return {"connection_success": True}
+
+
 @app.get("/{text}")
 async def get_label_score(text: str):
     pipe = TextClassificationPipeline(model=model, tokenizer=tokenizer)
