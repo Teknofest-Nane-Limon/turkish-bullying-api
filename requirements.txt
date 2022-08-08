@@ -35,6 +35,7 @@ filelock==3.7.1
 gast==0.5.3
 GeoAlchemy2==0.12.1
 grpcio==1.47.0
+gunicorn==20.1.0
 h11==0.13.0
 html5lib==0.9999999
 identify==2.5.1
