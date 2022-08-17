@@ -1,6 +1,7 @@
 # turkish-bullying-api
 
 **Türkçe Doğal Dil İşleme ile Sosyal Medya Zorbalığı Tespiti** için yapılmış bert tabanlı bir model servisidir.
+- Lütfen FastAPI belgelerine bakın: https://fastapi.tiangolo.com/
 
 ## Model Hakkında 
 
@@ -30,7 +31,6 @@ Modelin eğitiminde 3388 tweet kullanıldı. Buna göre eğitimde başarı oranl
 | F1 Score | 0.887967 | 0.888889 | 0.871060 | 0.908438 | 892171 |
 
 
-- Lütfen FastAPI belgelerine bakın: https://fastapi.tiangolo.com/
 
 ## Environment
 
