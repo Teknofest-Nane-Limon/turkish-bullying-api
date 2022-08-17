@@ -31,15 +31,6 @@ Modelin eğitiminde 3388 tweet kullanıldı. Buna göre eğitimde başarı oranl
 | F1 Score | 0.887967 | 0.888889 | 0.871060 | 0.908438 | 892171 |
 
 
-
-## Environment
-
-Please set up your Python version to `3.10`
-
-- `
-python3 --version
-`
-
 # Ortam Oluşturma
 
 Lütfen Python sürümünüzü '3.10' olarak ayarlayın.
