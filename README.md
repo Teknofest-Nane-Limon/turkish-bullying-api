@@ -9,7 +9,7 @@ language:
 - tr
 tags:
 - translation
-license: gpl-3.0
+license: MIT
 ---
 
 ## About the model
