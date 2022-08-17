@@ -20,7 +20,7 @@ Dahil edilen sınıflar;
 - Kızdırma/Hakaret
 - Cinsiyetçilik
 - Irkçılık
-- 
+
 Modelin eğitiminde 3388 tweet kullanıldı. Buna göre eğitimde başarı oranları şu şekildedir;
 
 |        | Cinsiyetçilik | Irkçılık | Kızdırma | Nötr | Accuracy |
