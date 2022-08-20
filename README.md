@@ -13,7 +13,6 @@ tags:
 license: MIT
 ---
 
-## About the model
 İnsanların sosyal medyada birbirlerine karşı kullandıkları zorbalık türlerini belirlemek için oluşturulmuş, dbmdz/bert-base-turkish-128k-cased tabanlı bir modeldir.
 Dahil edilen sınıflar;
 
